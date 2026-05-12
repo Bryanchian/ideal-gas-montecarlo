@@ -21,7 +21,8 @@ Run the Jupyter notebook:
 
 ideal_gas_montecarlo.ipynb
 
-## Author
+## Authors
 
 Bryan Chian
+Pedro Piche
 Universidad de San Carlos de Guatemala
