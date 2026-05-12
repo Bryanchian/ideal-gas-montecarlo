@@ -23,6 +23,6 @@ ideal_gas_montecarlo.ipynb
 
 ## Authors
 
-Bryan Chian
+Bryan Chian and
 Pedro Piche
 Universidad de San Carlos de Guatemala
